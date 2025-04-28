@@ -12,8 +12,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,8 +21,11 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![](https://komarev.com/ghpvc/?username=fabiocastrodias&style=pixel)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocastrodias&langs_count=10&hide_progress=false&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&hide=shaderlab,css,html" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiocastrodias&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" />
-</div>
+<a href="https://github.com/fabiocastrodias">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabiocastrodias&show_icons=true&bg_color=475258&text_color=a7c080&title_color=dbbc7f&icon_color=83c092&border_color=83c092" />
+</a>
+<a href="https://github.com/fabiocastrodias">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocastrodias&layout=compact&hide_progress=false&show_icons=true&bg_color=475258&text_color=a7c080&title_color=dbbc7f&icon_color=83c092&border_color=83c092&size_weight=0.5&count_weight=0.5&hide=shaderlab,css,html" />
+</a>
