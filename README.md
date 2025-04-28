@@ -27,5 +27,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabiocastrodias&show_icons=true&bg_color=475258&text_color=a7c080&title_color=dbbc7f&icon_color=83c092&border_color=83c092" />
 </a>
 <a href="https://github.com/fabiocastrodias">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocastrodias&layout=compact&hide_progress=false&show_icons=true&bg_color=475258&text_color=a7c080&title_color=dbbc7f&icon_color=83c092&border_color=83c092&size_weight=0.5&count_weight=0.5&hide=shaderlab,css,html" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocastrodias&layout=compact&hide_progress=false&show_icons=true&bg_color=475258&text_color=a7c080&title_color=dbbc7f&icon_color=83c092&border_color=83c092&card_width=320&size_weight=0.5&count_weight=0.5&hide=shaderlab,css,html" />
 </a>
